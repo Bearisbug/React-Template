@@ -1,4 +1,4 @@
-# <img src="https://s1.locimg.com/2025/03/04/28cfb15e65029.png" width=20> 虫の模版
+#  <img src="https://i.imgur.com/iUTRSbw.png" width=20> 虫の模版
 
 该模板为本虫使用的 React 启动模板，内置了 TailwindCSS V4、React Router V7 以及 Axios。你可以基于此模板快速搭建前端项目。
 
